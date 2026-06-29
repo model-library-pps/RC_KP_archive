@@ -1,0 +1,10 @@
+Effect of N:
+Organic fertilizer supply gives extra N in later years. This effect is captured by recovery values of N if FYM or other organic inputs are supplied regurlarly. 
+
+In the hanninghof experiment, FYM is applied once every 3 years. Here N recovery for N in FYM doesn't capture this well, it only provides an estimate of N supply in the years fo application.
+To correctly capture this, only working with recovery of applied N in the same year is not the correct approach.
+
+To correct, extra N supply needs to be defined for following crops in rotations with such intermitted applications. 
+
+
+

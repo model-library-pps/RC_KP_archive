@@ -1,0 +1,24 @@
+NO,FARMCODE,Sub location,Dist,DH,"Seasons applied (eg 1,3 to indicate feertilizer applied in 1st and 3rd seasons)",Farm Size (acre),Fert Use,Types applied,Fert ,Fert Plant,Fert Top,Total Fert,Method of application,"Application(eg 1,3 to indicate manure applied in 1st and 3rd  seasons)",Man freq,Man Use,Type,Average amount applied,Date,Method
+1,F1,Lundha,30,<100,"1,2",0.75,YES,"DAP, CAN",25,25,0,25,Teaspoon,"1,2,3",High,YES,Farm yard,11 Wheelbarrows,17/03/2013,hand
+2,F2,Sirembe,30,<100,"1,2",2,YES,"DAP, CAN",25,50,50,100,Teaspoon,"1,2",Mod,YES,compost,7 wheelbarrows,17/03/2013,ox-plough
+3,F3,Sirembe,60,<100,"1,2",2,YES,"DAP,CAN",50,50,0,50,Bottle top,"1,3",Mod,YES,Farm yard,10 Wheelbarrows,16/03/2013,ox-plough
+4,F4,Lundha,30,<100,"1,2 ",1,YES,"DAP, CAN",50,50,25,75,Bottle top,"1,3",Mod,YES,Farm yard,60 wheelbarrows,17/03/2013,ox-plough
+5,F5,Yiro East,30,<100,"1,2",0.75,YES,DAP,25,20,10,30,Hand,nil,Low,NO,,,19/03/2013,Hand
+6,F6,Asayi,200,>100,"1,2,3",1.5,YES,DAP,20,75,0,75,Teaspoon,nil,Mod,NO,Farm yard,5 wheelbarrows,19/03/2013,ox-plough
+7,F7,Ndere,20,<100,"1, 3",0.25,YES,DAP,6,6,5,11,Hand,"1,2,3",High,YES,Farm yard,,07/03/2013,Hand digging
+8,F8,Malanga,20,<100,"1,2",0.25,YES,DAP,25,10,0,10,Teaspoon,"1,2,3",High,YES,compost,8 wheelbarrows,16/03/2013,hand
+9,F9,Lundha,20,<100,"1, 3",1,YES,"DAP, CAN",50,50,50,100,Bottle top,"1,2",Mod,YES,Farm yard,30 wheelbarrows,04/03/2013,Hand digging
+10,F10,Nyabeda,50,<100,"1,2",1,YES,"DAP, CAN",10,50,8,58,Bottle top,"1,2,3",High,YES,Farm yard,6 wheelbarrows,15/03/3012,hand
+11,F11,Ndere,20,<100,"1, 3",3,YES,"DAP, CAN",50,100,0,100,Bottle top,"1, 2, 3",High,YES,Farm yard,50 wheelbarrows,11/03/2013,Tractor
+12,F12,Malanga,250,>100,"1,3",1,YES,DAP,50,50,25,75,Bottle top,"1,3",Mod,YES,Farm yard,60 wheelbarrows,21/03/2013,ox-plough
+13,F13,Ndere,30,<100,"1, 2",2,YES,"DAP, CAN",50,50,50,100,Bottle top,"1, 2",Mod,YES,Farm yard,25 Wheelbarrows,13/03/2013,ox-plough
+14,F14,Ebushieni,20,<100,"1,2",2.5,YES,DAP,50,50,25,75,Hand,"1, 2, 3",High,YES,"1,2,3",10 Wheelbarrows,15/03/2013,Hand digging
+15,F15,Yiro East,30,<100,"1,2",0.5,YES,DAP,50,50,0,50,Hand,"1, 2, 3",High,YES,Farm yard,30 wheelbarrows,21/03/2013,Hand
+16,F16,Sirembe,30,<100,"1,2,3",1,YES,DAP,25,30,30,60,Bottle top,"1,2,3",High,YES,Farm yard,10 Wheelbarrows,16/03/2013,ox-plough
+17,F17,Asayi,30,<100,"1,2,3",1.5,YES,"DAP, CAN",50,25,25,50,Teaspoon,"1,3",Mod,YES,Farm yard,40 wheelbarrows,14/03/2013,ox-plough
+18,F18,Asayi,20,<100,"1,2",0.75,YES,"DAP, CAN",25,50,10,60,Bottle top,nil,Low,NO,nil,nil,17/03/2013,hand
+19,F19,Malanga,10,<100,"1,3",0.5,YES,DAP,25,25,25,50,Bottle top,"1,3",Mod,YES,Farm yard,25 Wheelbarrows,13/03/2013,hand
+20,F20,Malanga,150,>100,"1,3",1.75,YES,"DAP, CAN",100,70,40,110,Teaspoon,nil,Low,NO,nil,nil,09/03/2013,hand
+21,F21,Sirembe,200,>100,"1,2",1,YES,DAP,10,20,0,20,Hand,nil,Low,NO,nil,nil,23/03/2013,hand
+22,F23,Nyabeda,20,<100,"1,2",5,YES,DAP,25,50,25,75,Bottle top,"1,2,3",High,YES,Farm yard,20 wheelbarrows,18/03/2013,ox-plough
+23,F24,Malanga,450,>100,"1,3",1,YES,DAP,30,25,3,28,Hand,nil,Low,NO,Farm yard,6 wheelbarrows,22/03/2013,hand
